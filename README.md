@@ -3,6 +3,7 @@ The excel is used to get the bulk domains, hashes and urls from VirusTotal using
 
 
 Instructions to use:
+
 	1) Enter your VirusTotal API key in API sheet 1st cell ( i.e., A1 column)
 	
 	2) For Domains:
@@ -20,6 +21,7 @@ Instructions to use:
 		Click the Run button once you entered the data in Hashes sheet
 
 Limitations:
+
 	1)  It will run 4 queries per minute and max 1K prequests per day.
 	
 	2) This is designed for VirusTotal public api-key , don't know whether it will work for premium key.
