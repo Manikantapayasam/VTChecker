@@ -28,6 +28,11 @@ Limitations:
 	
 	3) If you want to re-run the particular task then you should clear all the results otherwise it dislays a message "completed".
 	
-	4) Don't give any blank row between the data because the balnk row is considered as a End of the Data
+	4) Don't give any blank row between the data because the blank row is considered as a End of the Data
+	
+	
+Resources: 
+
+https://github.com/VBA-tools/VBA-JSON
 		
 
